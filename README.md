@@ -2,6 +2,6 @@
 
 Hi Git
 
-How are you . I am just sick.
+How are you . I am just new.
 
 Rocker
